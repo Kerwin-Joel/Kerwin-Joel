@@ -20,7 +20,7 @@
 
 <br />
 
-Hola, soy [hebert villafuerte] (https://hebertdev.tk/), un Full Stack Developer 🚀 de Perú, tengo una amplia experiencia en el diseño y construcción de aplicaciones web.
+Hola, soy Kewin Joel , un Front-end Developer 🚀 de Perú, tengo experiencia en el diseño y construcción de aplicaciones web.
 
 <img src = "https://i.pinimg.com/originals/3c/d2/2a/3cd22aba559021ceb78189475ad918f4.gif" height="450px" width = " 100% "  />
   
@@ -29,8 +29,4 @@ Hola, soy [hebert villafuerte] (https://hebertdev.tk/), un Full Stack Developer 
 ### Donde me puedes encontrar
 
 _Personal_
-*: star :: blush: A veces me vuelvo Youtuber DEV ** [Videos] (https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q) **: v:
-*: estrella :: rubor: Mi sitio web ** [Trabajos] (https://hebertdev.tk/works) **: v:
-*: estrella :: rubor: Fotos, tips y memes ** [Instagram] (https://www.instagram.com/hebertdev1) **: v:
-*: estrella :: rubor: Algo que no uso x1 ** [Facebook] (https://facebook.com/hebertdev1) **: v:
-*: estrella :: rubor: Algo que no uso x2 ** [Twitter] (https://twitter.com/hebertdev1) **: v:
+*: estrella :: rubor: Fotos, tips y memes ** [Instagram] (https://www.instagram.com/kerwin.dev/) **: v:
