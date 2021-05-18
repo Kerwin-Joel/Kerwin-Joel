@@ -3,5 +3,5 @@
 
 Hola, soy Kewin Joel , un Front-end Developer 🚀 de Perú, tengo experiencia en el diseño y construcción de aplicaciones web.
 
-<img src = "https://i.pinimg.com/originals/3c/d2/2a/3cd22aba559021ceb78189475ad918f4.gif" height="450px" width = " 100% "  />
+<img src = "https://i.pinimg.com/originals/3c/d2/2a/3cd22aba559021ceb78189475ad918f4.gif" height="80%" width = " 100% "  />
   
