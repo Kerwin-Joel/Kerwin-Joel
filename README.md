@@ -11,9 +11,3 @@ Hola, soy Kewin Joel , un Front-end Developer 🚀 de Perú, tengo experiencia e
 
 <img src = "https://i.pinimg.com/originals/3c/d2/2a/3cd22aba559021ceb78189475ad918f4.gif" height="450px" width = " 100% "  />
   
-
-
-### Donde me puedes encontrar
-
-_Personal_
-*: estrella :: rubor: Fotos, tips y memes ** [Instagram] (https://www.instagram.com/kerwin.dev/) **: v:
