@@ -1,9 +1,11 @@
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-  <img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='180' align="left"/>
-  <h2 >Hi there, I'm  Kerwin Sandoval</h2>
-  <h2>
-    <img src="https://giffiles.alphacoders.com/214/214311.gif" width='765' height='40'/> 
-  </h2>
+  <img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='20%' align="left"/>
+  <p>
+    <h2 align="right" > 👾 Hi there, I'm  Kerwin Sandoval</h2>
+    <h2 align="right">
+      <img src="https://giffiles.alphacoders.com/214/214311.gif"  width='75%' height='40'/> 
+    </h2>
+  </p>
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
