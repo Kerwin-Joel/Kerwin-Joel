@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/B71D_eNc4ZYAAAAC/konosuba-megumin.gif" width='180' align="left"/>
   <h2 >Hi there, I'm  Kerwin Sandoval</h2>
   <h2>
-    <img src="https://giffiles.alphacoders.com/214/214311.gif" width='79.3%' height='40'/> 
+    <img src="https://giffiles.alphacoders.com/214/214311.gif" width='765' height='40'/> 
   </h2>
 </div>
 
