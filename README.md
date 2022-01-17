@@ -12,7 +12,7 @@
 🖍 &nbsp;In my free time, I learn things  Design and Blog Writing as hobbies/side hustle skills to build quality software.\
 🎙 &nbsp;Feel free to contact me for advice and help (as far as I can), or just for an interesting discussion.\
 📇 &nbsp;You can shoot me an email at kerwinsandovals@gmail.com! I'll try to respond as soon as I can.\
-👾 &nbsp;Please have a look at my [Resume](https://kido.website/img/cv-kerwin.pdf) for more details about me. I'm open to feedback and suggestions!
+👾 &nbsp;Please have a look at my [Resume](https://kido.website/static/media/kerwinCV.63ed7658.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://i.giphy.com/media/xAzW9Oi28p1VS/giphy.webp" align="right" width='300'/>
