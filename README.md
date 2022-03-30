@@ -50,7 +50,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/12129450294)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12129450294&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12129450294&cover_image=true&theme=novatorem&bar_color=ae50fb&bar_color_cover=true)]]
 
 ---
 
